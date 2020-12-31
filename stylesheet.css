@@ -1,0 +1,46 @@
+* {
+  font-family:"Times New Roman"
+}
+img {
+  width:100px;
+  height:100px;
+}
+
+
+*{
+  text-align:center;
+}
+
+header{
+  height:300px;
+  width:100%;
+  background-color:rgba(27, 150, 207,0.7);
+  
+}
+
+.project{
+  height:150px;
+  width:100%;
+  background-color:rgba(207, 129, 27, 0.7);
+}
+
+.profile-link{
+    height:150px;
+    width:100%;
+    background-color:rgba(240, 8, 19, 0.7);
+}
+
+.Hobbies{
+    height:150px;
+    width:100%;
+    background-color:rgba(236, 15, 236, 0.7);
+}
+
+.skills{
+  height:150px;
+    width:100%;
+    background-color:rgba(36, 139, 16, 0.7);
+}
+
+
+
